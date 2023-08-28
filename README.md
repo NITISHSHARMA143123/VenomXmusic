@@ -15,11 +15,7 @@
 
 > ⭐️ Thanks to everyone for using Alexa,  🤭 That is the greatest pleasure we have !
 
-### Asad– History
-
-<a href="https://www.youtube.com/JankariKiDuniya"><img src="https://img.shields.io/badge/Join-Subscribe%20Support-blue.svg?style=for-the-badge&logo=YouTube"></a>
-
-<h1 align="center"><b>😂 ᴠɪᴇᴡ ᴀʟʟ ᴄᴏᴍᴍᴀɴᴅs 😂</b></h1>
+ ᴠɪᴇᴡ ᴀʟʟ ᴄᴏᴍᴍᴀɴᴅs 😂</b></h1>
 <br>
 
 - Thumbnail Support | Audio And Video
@@ -85,11 +81,11 @@
 
 </details>
 <h1 align="center"><b>❤️ ᴅᴇᴘʟᴏʏᴍᴇɴᴛ ❤️</b></h1>
-Welcome to the AlexaMusic repository, a platform developed by TheTeamAlexa to enhance your music experience through Alexa. With AlexaMusic, you can easily command your Alexa to play your favorite songs, artists, and playlists without lifting a finger.
+Welcome to the 𝐯𝐞𝐧𝐨𝐦𝐗𝐦𝐮𝐬𝐢𝐜 repository, a platfoAleed by 𝐓𝐞𝐚𝐦𝐕𝐞𝐧𝐨𝐦𝐗𝐦𝐮𝐬𝐢𝐜 to enhance your music experience through 𝐯𝐞𝐧𝐨𝐦𝐗𝐦𝐮𝐬𝐢𝐜. With 𝐦𝐮𝐬𝐢𝐜, you can easily command your bot to play your favorite songs, artists, and playlists without lifting a finger.
 
-Our development team has worked tirelessly to create a seamless user experience, from integrating various music services to providing custom voice commands for Alexa. We believe that music has the power to bring people together, and our goal is to make it as accessible and enjoyable as possible.
+Our development team has worked tirelessly to create a seamless user experience, from integrating various music services to providing custom voice commands for bot. We believe that music has the power to bring people together, and our goal is to make it as accessible and enjoyable as possible.
 
-Through this repository, we hope to share our passion for music and innovation with the world. Whether you're a developer looking to contribute to our open-source project or a music lover excited to try out AlexaMusic, we welcome you to join our community and help us shape the future of music with Alexa.
+Through this repository, we hope to share our passion for music and innovation with the world. Whether you're a developer looking to contribute to our open-source project or a music lover excited to try out 𝐯𝐞𝐧𝐨𝐦𝐗𝐦𝐮𝐬𝐢𝐜, we welcome you to join our community and help us shape the future of music with 𝐯𝐞𝐧𝐨𝐦𝐗𝐦𝐮𝐬𝐢𝐜.
 <summary><b>ʀᴇǫᴜɪʀᴇᴍᴇɴᴛs</b></summary>
 <br>
     
@@ -137,22 +133,7 @@ Through this repository, we hope to share our passion for music and innovation w
 
 ## sᴘᴇᴄɪᴀʟ ᴄʀᴇᴅɪᴛ
 
-- [ᴀsᴀᴅ ᴀʟɪ](https://t.me/Dr_Asad_Ali)
-- [ʟᴏɢɪ ʟᴀʙ](https://github.com/LOGI-LAB)
-- [ʜᴀʀsʜɪᴛ](https://t.me/HarshitSharma361)
-- [Abhimanyu](https://t.me/Itz_Venom_xD)
-- [ᴍᴀssoᴍ](https://t.me/Kattai_massom)
-- [ʏᴜᴋᴋɪ](https://github.com/NotReallyShikhar)
-- [ᴀɴᴏɴʏᴍᴏᴜs](https://github.com/TheAnonymous2005)
-</details>
-
-<details>
-<summary><b>ʙʀᴏᴛʜᴇʀ</b></summary>
-<br>
-
-- [ᴍᴜᴋᴜ](https://t.me/LEGEND_MUKUND)
-- [ᴅᴇᴠɪʟ](https://t.me/its_devil_911)
-
+- [𝐯𝐞𝐧𝐨𝐦](https://telegram.me/Its_aryann)
 </details>
 
 <details>
@@ -160,11 +141,7 @@ Through this repository, we hope to share our passion for music and innovation w
 <br>
 
 # ❤️ Support<
-<a href="https://t.me/Alexa_BotUpdates"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
-<a href="https://t.me/Shayri_Music_Lovers"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
-<a href="https://t.me/Give_Me_Heart"><img src="https://img.shields.io/badge/Give-Me%20Heart-blue.svg?logo=telegram"></a>
-<a href="https://t.me/Alexa_Help"><img src="https://img.shields.io/badge/Give-Me%20Heart-blue.svg?logo=telegram"></a>
-
+<a href="><img src="https://t.me/Venom_world_support"></a> src="https://t.me/Vw_chatting_club"></a>
 </details>
 
 
@@ -174,7 +151,7 @@ Through this repository, we hope to share our passion for music and innovation w
 <summary><b>ʟɪʙʀᴀʀɪᴇs</b></summary>
 <br>
 
-ᴛʜᴀɴᴋs ᴛᴏ ᴀʟʟ ᴏғ ʏᴏᴜ ғᴏʀ ᴜsɪɴɢ ᴀɴᴅ ᴍᴀᴋɪɴɢ ᴀʟᴇxᴀ:
+ᴛʜᴀɴᴋs ᴛᴏ ᴀʟʟ ᴏғ ʏᴏᴜ ғᴏʀ ᴜsɪɴɢ ᴀɴᴅ ᴍᴀᴋɪɴɢ venomXmusic:
 
 - [Pyrogram](https://github.com/pyrogram/pyrogram)
 - [Py-Tgcalls](https://github.com/pytgcalls/pytgcalls)
